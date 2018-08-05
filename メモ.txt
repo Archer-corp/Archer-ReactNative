@@ -1,7 +1,7 @@
 
 
 プロジェクトフォルダへの移動用
-
+(人によって違うかも)
 cd \Users\axisv\Documents\GitHub\Archer-ReactNative（井上）
 
 
@@ -10,8 +10,10 @@ cd \Users\axisv\Documents\GitHub\Archer-ReactNative（井上）
  
 npm start
 
-ライブラリ
+ライブラリは、ファイルを取り込んだ後、
+npm installで自動ですべて入る
 
+環境構築メモ
 Create-react-native-app
 (npm install -g create-react-native-app)
 
